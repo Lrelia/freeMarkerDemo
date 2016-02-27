@@ -1,0 +1,27 @@
+{
+  "name": "freemarker-demo",
+  "version": "1.0.0",
+  "description": "联练习freemarker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lrelia/freeMarkerDemo.git"
+  },
+  "keywords": [
+    "freemarker练习"
+  ],
+  "author": "Lrelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lrelia/freeMarkerDemo/issues"
+  },
+  "homepage": "https://github.com/Lrelia/freeMarkerDemo#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "freemarker.js": "^1.2.2",
+    "path": "^0.12.7"
+  }
+}
